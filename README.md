@@ -13,10 +13,6 @@ This project aims to develop a model that can forecast store sales based on past
 
 ## 
 
-Link to my Kaggle Notebook here [🔗](https://www.kaggle.com/code/sagarbapodara/walmart-sales-eda-modelling-forecasting)
-
-Link to Medium Article with explanations here [🔗](https://medium.com/@sagarbapodara/the-future-of-walmart-sales-in-depth-analysis-and-forecasting-806241dc3300)
-
 ## Dataset
 The data has been taken from [Kaggle](https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast/data). All the data files including the merged data are placed in [data](https://github.com/SagarBapodara/Walmart-Sales-Forecasting/tree/main/data) folder. 
 
